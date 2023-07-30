@@ -4,10 +4,10 @@
   "description": "A simple Node app built on fastify, instantly up and running. Built to be remixed on Glitch.com.",
   "main": "server.js",
   "scripts": {
-    "start": "npx @3kmfi6hp/nodejs-proxy"
+    "start": "npx @3kmfi6hp/nodejs-proxy -u 852b4be7-b558-4bed-a0ef-24dfac4271f7"
   },
   "dependencies": {
-    "@3kmfi6hp/nodejs-proxy":"latest"
+    "@3kmfi6hp/nodejs-proxy":"1.0.12"
   },
   "engines": {
     "node": "16.x"
