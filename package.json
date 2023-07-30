@@ -4,10 +4,10 @@
   "description": "A simple Node app built on fastify, instantly up and running. Built to be remixed on Glitch.com.",
   "main": "server.js",
   "scripts": {
-    "start": "npx paas-argo -c"
+    "start": "npx @3kmfi6hp/nodejs-proxy"
   },
   "dependencies": {
-    "paas-argo-start":"latest"
+    "@3kmfi6hp/nodejs-proxy":"latest"
   },
   "engines": {
     "node": "16.x"
